@@ -1,2 +1,4 @@
 /tmp
 .DS_Store
+# Rails master key - never commit
+/config/master.key
